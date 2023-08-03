@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Crypto price tracker PRO",
-	"description": "Crypto price tracker PRO edition",
-  "version": "1.0.0",
+  "name": "Crypto Price Tracker Pro",
+	"description": "Track Crypto Prices in real-time",
+  "version": "1.0.1",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
