@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Crypto price tracker PRO",
+	"description": "Crypto price tracker PRO edition",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/logo16.png",
+			"24": "images/logo24.png",
+      "32": "images/logo32.png",
+			"64": "images/logo64.png",
+      "128": "images/logo128.png",
+			"256": "images/logo256.png",
+			"512": "images/logo512.png"
+    }
+  },
+  "permissions": []
+}

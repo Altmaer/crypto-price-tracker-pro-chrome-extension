@@ -1,0 +1,3 @@
+{
+  "DEFAULT_COINGECKO_COIN_IDS": ["bitcoin", "ethereum", "ripple", "binancecoin", "cardano", "dogecoin", "solana", "tron", "matic-network", "litecoin", "bitcoin-cash", "shina-inu", "stellar", "monero", "dash", "zcash"]
+}
