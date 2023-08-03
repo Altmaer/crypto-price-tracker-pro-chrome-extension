@@ -1,6 +1,6 @@
 {
   "name": "crypto-price-tracker-pro-chrome-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crypto Price Tracker Pro Chrome Extension",
   "main": "dist/index.js",
   "source": "src/app.ts",
